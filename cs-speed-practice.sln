@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-4", "cs-s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-5", "cs-speed-practice-5\cs-speed-practice-5.csproj", "{6000F9E6-0560-4E09-8FED-F7B3D011C605}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-6", "cs-speed-practice-6\cs-speed-practice-6.csproj", "{5C841FDD-3EE5-4A47-A994-6A4F60B3CAAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6000F9E6-0560-4E09-8FED-F7B3D011C605}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6000F9E6-0560-4E09-8FED-F7B3D011C605}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6000F9E6-0560-4E09-8FED-F7B3D011C605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C841FDD-3EE5-4A47-A994-6A4F60B3CAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C841FDD-3EE5-4A47-A994-6A4F60B3CAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C841FDD-3EE5-4A47-A994-6A4F60B3CAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C841FDD-3EE5-4A47-A994-6A4F60B3CAAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
