@@ -24,7 +24,7 @@ namespace cs_speed_practice_7
             while (true)
             {
                 Console.Write("Please enter a word to check if it is a Palindrome: ");
-                var input = Console.ReadLine();
+                var input = Console.ReadLine().ToLower();
 
                 if (input == "exit")
                 {

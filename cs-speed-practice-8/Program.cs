@@ -21,9 +21,8 @@ namespace cs_speed_practice_8
 
             int[] array = new[] { 1, 1, 2, 3, 4, 5, 6, 7, 8, 9};
 
-            for (var i = 1; i < array.GetLength(0); i++)
+            for (var i = 0; i < array.Length; i++)
             {
-                i = array[i];
                 Console.Write(array[i] + " ");
             }
         }

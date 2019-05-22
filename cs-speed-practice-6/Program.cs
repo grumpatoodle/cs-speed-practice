@@ -46,9 +46,17 @@ namespace cs_speed_practice_6
             {
                 Console.WriteLine("Your coordinate is in Quadrant IV.");
             }
-            else if (x == 0 && y == 00)
+            else if (x == 0 && y == 0)
             {
                 Console.WriteLine("Your coordinate is at the origin.");
+            }
+            else if (x == 0 && y > 0)
+            {
+                Console.WriteLine("This coordinate is not in a Quadrant, it lies on the Y-Axis.");
+            }
+            else if (x > 0 && y == 0)
+            {
+                Console.WriteLine("This coordinate is not in a Quadrant, it lies on the X-Axis.");
             }
         }
     }
