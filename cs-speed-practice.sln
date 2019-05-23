@@ -3,21 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice", "cs-speed-practice\cs-speed-practice.csproj", "{F6465F89-E71B-4E83-A3F5-213317247E57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs-speed-practice", "cs-speed-practice\cs-speed-practice.csproj", "{F6465F89-E71B-4E83-A3F5-213317247E57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-2", "cs-speed-practice-2\cs-speed-practice-2.csproj", "{1E4E90CE-E4D3-4F1A-84BF-CF6DDF67F1DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs-speed-practice-2", "cs-speed-practice-2\cs-speed-practice-2.csproj", "{1E4E90CE-E4D3-4F1A-84BF-CF6DDF67F1DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-3", "cs-speed-practice-3\cs-speed-practice-3.csproj", "{DE620A15-7CCE-48C3-8476-61FF09D5AFED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs-speed-practice-3", "cs-speed-practice-3\cs-speed-practice-3.csproj", "{DE620A15-7CCE-48C3-8476-61FF09D5AFED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-4", "cs-speed-practice-4\cs-speed-practice-4.csproj", "{45DCDC46-5379-4AA3-8152-49FF2CBB0643}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs-speed-practice-4", "cs-speed-practice-4\cs-speed-practice-4.csproj", "{45DCDC46-5379-4AA3-8152-49FF2CBB0643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-5", "cs-speed-practice-5\cs-speed-practice-5.csproj", "{6000F9E6-0560-4E09-8FED-F7B3D011C605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs-speed-practice-5", "cs-speed-practice-5\cs-speed-practice-5.csproj", "{6000F9E6-0560-4E09-8FED-F7B3D011C605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-6", "cs-speed-practice-6\cs-speed-practice-6.csproj", "{5C841FDD-3EE5-4A47-A994-6A4F60B3CAAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs-speed-practice-6", "cs-speed-practice-6\cs-speed-practice-6.csproj", "{5C841FDD-3EE5-4A47-A994-6A4F60B3CAAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-7", "cs-speed-practice-7\cs-speed-practice-7.csproj", "{E313A27B-5F45-4713-9819-73541737481D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs-speed-practice-7", "cs-speed-practice-7\cs-speed-practice-7.csproj", "{E313A27B-5F45-4713-9819-73541737481D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-8", "cs-speed-practice-8\cs-speed-practice-8.csproj", "{994716FD-D0D1-4AEE-A7C4-97BD5DE396BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs-speed-practice-8", "cs-speed-practice-8\cs-speed-practice-8.csproj", "{994716FD-D0D1-4AEE-A7C4-97BD5DE396BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-9", "cs-speed-practice-9\cs-speed-practice-9.csproj", "{222A333E-7C61-4301-BA49-A1B16138B403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-10", "cs-speed-practice-10\cs-speed-practice-10.csproj", "{CEAFCB36-45C9-47D7-B1FC-3B9627529AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-11", "cs-speed-practice-11\cs-speed-practice-11.csproj", "{D5E92CBD-7C24-4579-9883-58123C81B716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-12", "cs-speed-practice-12\cs-speed-practice-12.csproj", "{6FB92C9B-A9B3-4F8B-B62A-A8CEC8C6B3D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-13", "cs-speed-practice-13\cs-speed-practice-13.csproj", "{AAC4BDC4-EFD1-4B30-A1EE-8E1D59B18FFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-speed-practice-14", "cs-speed-practice-14\cs-speed-practice-14.csproj", "{4D56DD69-55C8-44A8-9A94-1EEE8676FD32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +69,30 @@ Global
 		{994716FD-D0D1-4AEE-A7C4-97BD5DE396BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{994716FD-D0D1-4AEE-A7C4-97BD5DE396BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{994716FD-D0D1-4AEE-A7C4-97BD5DE396BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{222A333E-7C61-4301-BA49-A1B16138B403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222A333E-7C61-4301-BA49-A1B16138B403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222A333E-7C61-4301-BA49-A1B16138B403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222A333E-7C61-4301-BA49-A1B16138B403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEAFCB36-45C9-47D7-B1FC-3B9627529AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAFCB36-45C9-47D7-B1FC-3B9627529AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAFCB36-45C9-47D7-B1FC-3B9627529AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAFCB36-45C9-47D7-B1FC-3B9627529AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E92CBD-7C24-4579-9883-58123C81B716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E92CBD-7C24-4579-9883-58123C81B716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E92CBD-7C24-4579-9883-58123C81B716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E92CBD-7C24-4579-9883-58123C81B716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB92C9B-A9B3-4F8B-B62A-A8CEC8C6B3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB92C9B-A9B3-4F8B-B62A-A8CEC8C6B3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB92C9B-A9B3-4F8B-B62A-A8CEC8C6B3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB92C9B-A9B3-4F8B-B62A-A8CEC8C6B3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC4BDC4-EFD1-4B30-A1EE-8E1D59B18FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC4BDC4-EFD1-4B30-A1EE-8E1D59B18FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC4BDC4-EFD1-4B30-A1EE-8E1D59B18FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC4BDC4-EFD1-4B30-A1EE-8E1D59B18FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D56DD69-55C8-44A8-9A94-1EEE8676FD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D56DD69-55C8-44A8-9A94-1EEE8676FD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D56DD69-55C8-44A8-9A94-1EEE8676FD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D56DD69-55C8-44A8-9A94-1EEE8676FD32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
